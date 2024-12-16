@@ -1,0 +1,5 @@
+obj/
+os
+.vscode/
+mem
+sched
